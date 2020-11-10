@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Directed Acyclic Graph.LCATest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-10T18:02:50" hostname="HAMZA-LAPTOP" time="0.001">
+  <properties/>
+  <testcase name="LCA of 1 and 2 should be 1" classname="Directed Acyclic Graph.LCATest" time="0.0"/>
+  <testcase name="LCA of 5 and 3 should be 1" classname="Directed Acyclic Graph.LCATest" time="0.0"/>
+  <testcase name="LCA of 3 and 4 should be 2" classname="Directed Acyclic Graph.LCATest" time="0.0"/>
+  <testcase name="LCA of 2 and 5 should be 1" classname="Directed Acyclic Graph.LCATest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
