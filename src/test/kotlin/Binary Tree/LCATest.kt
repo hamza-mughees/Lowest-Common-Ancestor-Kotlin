@@ -1,7 +1,7 @@
+package `Binary Tree`
+
 import org.junit.Assert.*
 import org.junit.Test
-import BinaryTree
-import Node
 
 fun constructTree(): BinaryTree {
     var t: BinaryTree = BinaryTree(3)
